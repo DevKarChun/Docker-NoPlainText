@@ -6,3 +6,5 @@
 
 # Docker volumes (if you mount local directories)
 data/
+
+--
